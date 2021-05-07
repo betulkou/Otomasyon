@@ -1,0 +1,28 @@
+C:\Users\karta\source\repos\YMS5474\OOP_Hamburgerci\OOP_Hamburgerci\bin\Debug\OOP_Hamburgerci.exe.config
+C:\Users\karta\source\repos\YMS5474\OOP_Hamburgerci\OOP_Hamburgerci\bin\Debug\OOP_Hamburgerci.exe
+C:\Users\karta\source\repos\YMS5474\OOP_Hamburgerci\OOP_Hamburgerci\bin\Debug\OOP_Hamburgerci.pdb
+C:\Users\karta\source\repos\YMS5474\OOP_Hamburgerci\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.csprojAssemblyReference.cache
+C:\Users\karta\source\repos\YMS5474\OOP_Hamburgerci\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.Form1.resources
+C:\Users\karta\source\repos\YMS5474\OOP_Hamburgerci\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.Form2.resources
+C:\Users\karta\source\repos\YMS5474\OOP_Hamburgerci\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.Form3.resources
+C:\Users\karta\source\repos\YMS5474\OOP_Hamburgerci\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.Form4.resources
+C:\Users\karta\source\repos\YMS5474\OOP_Hamburgerci\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.MyMDIForm.resources
+C:\Users\karta\source\repos\YMS5474\OOP_Hamburgerci\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.Properties.Resources.resources
+C:\Users\karta\source\repos\YMS5474\OOP_Hamburgerci\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.csproj.GenerateResource.cache
+C:\Users\karta\source\repos\YMS5474\OOP_Hamburgerci\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.csproj.CoreCompileInputs.cache
+C:\Users\karta\source\repos\YMS5474\OOP_Hamburgerci\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.exe
+C:\Users\karta\source\repos\YMS5474\OOP_Hamburgerci\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.pdb
+C:\Users\betul\Downloads\TAMAMLANMIŞ OOP_Hamburgerci\OOP_Hamburgerci\OOP_Hamburgerci\bin\Debug\OOP_Hamburgerci.exe.config
+C:\Users\betul\Downloads\TAMAMLANMIŞ OOP_Hamburgerci\OOP_Hamburgerci\OOP_Hamburgerci\bin\Debug\OOP_Hamburgerci.exe
+C:\Users\betul\Downloads\TAMAMLANMIŞ OOP_Hamburgerci\OOP_Hamburgerci\OOP_Hamburgerci\bin\Debug\OOP_Hamburgerci.pdb
+C:\Users\betul\Downloads\TAMAMLANMIŞ OOP_Hamburgerci\OOP_Hamburgerci\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.csprojAssemblyReference.cache
+C:\Users\betul\Downloads\TAMAMLANMIŞ OOP_Hamburgerci\OOP_Hamburgerci\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.Form1.resources
+C:\Users\betul\Downloads\TAMAMLANMIŞ OOP_Hamburgerci\OOP_Hamburgerci\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.Form2.resources
+C:\Users\betul\Downloads\TAMAMLANMIŞ OOP_Hamburgerci\OOP_Hamburgerci\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.Form3.resources
+C:\Users\betul\Downloads\TAMAMLANMIŞ OOP_Hamburgerci\OOP_Hamburgerci\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.Form4.resources
+C:\Users\betul\Downloads\TAMAMLANMIŞ OOP_Hamburgerci\OOP_Hamburgerci\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.MyMDIForm.resources
+C:\Users\betul\Downloads\TAMAMLANMIŞ OOP_Hamburgerci\OOP_Hamburgerci\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.Properties.Resources.resources
+C:\Users\betul\Downloads\TAMAMLANMIŞ OOP_Hamburgerci\OOP_Hamburgerci\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.csproj.GenerateResource.cache
+C:\Users\betul\Downloads\TAMAMLANMIŞ OOP_Hamburgerci\OOP_Hamburgerci\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.csproj.CoreCompileInputs.cache
+C:\Users\betul\Downloads\TAMAMLANMIŞ OOP_Hamburgerci\OOP_Hamburgerci\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.exe
+C:\Users\betul\Downloads\TAMAMLANMIŞ OOP_Hamburgerci\OOP_Hamburgerci\OOP_Hamburgerci\obj\Debug\OOP_Hamburgerci.pdb

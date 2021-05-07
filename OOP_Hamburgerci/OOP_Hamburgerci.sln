@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Hamburgerci", "OOP_Hamburgerci\OOP_Hamburgerci.csproj", "{71514C91-A570-4AD3-A97C-FDD32DFD740E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71514C91-A570-4AD3-A97C-FDD32DFD740E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71514C91-A570-4AD3-A97C-FDD32DFD740E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71514C91-A570-4AD3-A97C-FDD32DFD740E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71514C91-A570-4AD3-A97C-FDD32DFD740E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35F2131A-927A-4D69-8147-C4C0212B6087}
+	EndGlobalSection
+EndGlobal
